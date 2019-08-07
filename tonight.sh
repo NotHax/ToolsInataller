@@ -24,10 +24,10 @@ echo ""
 sleep 1
 echo ""
 echo " $c╔═══════════════════════════════════════════╗"
-echo "  $g【$y Author$g】$c: $b NotGuardian"
-echo "  $g【$y Github$g】$c: $g https://github.com/NotHax"
-echo "  $g【$y Instagram$g】$c: $g https://instagram.com/notguardianyt"
-echo "  $g【$y Youtube$g】$c: $r Not Guardian Hax"
+echo "  $g【$y Author $g】$c: $b NotGuardian"
+echo "  $g【$y Github $g】$c: $g https://github.com/NotHax"
+echo "  $g【$y Instagram $g】$c: $g https://instagram.com/notguardianyt"
+echo "  $g【$y Youtube $g】$c: $r Not Guardian Hax"
 echo " $c╚═══════════════════════════════════════════╝"
 sleep 1
 echo ""
@@ -62,6 +62,7 @@ case $pil in
 ;;
 
 #Exit
+case $pil in
 00) echo " Bye Pantek!!!"
 exit
 
@@ -70,4 +71,4 @@ exit
 *) echo "Maaf Pencarian Anda Tidak Di Temukan"
 esac
 done
-donw
+done
