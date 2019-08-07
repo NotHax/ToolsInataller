@@ -22,13 +22,15 @@ echo $y "    /$c**    $y//$c****** $y//$c******  *** ****** $y/$c** ***  $y/$c**
 echo $y "    //      //////   //////  /// //////  // ///   // //////     //   //////// /// ///  ////// ///    "
 echo ""
 sleep 1
+echo ""
 echo " $c╔═══════════════════════════════════════════╗"
-echo "  $g【$rAuthor$g】$c: $bNotGuardian"
-echo "  $g【$rGithub$g】$c: $ghttps://github.com/NotHax"
-echo "  $g【$rInstagram$g】$c: $ghttps://instagram.com/notfuardianyt"
-echo "  $g【$rYoutube$g】$c: $rNot Guardian Hax"
+echo "  $g【Author$g】$c: $b NotGuardian"
+echo "  $g【Github$g】$c: $g https://github.com/NotHax"
+echo "  $g【Instagram$g】$c: $g https://instagram.com/notguardianyt"
+echo "  $g【Youtube$g】$c: $r Not Guardian Hax"
 echo " $c╚═══════════════════════════════════════════╝"
 sleep 1
+echo ""
 ###################################################
 # CTRL + C
 ###################################################
@@ -40,7 +42,7 @@ exit
 }
 echo
 echo "$c╔═══════════════════╗"
-echo "$r     Tools Installer"
+echo "$r  Tools Installer"
 echo "$c╚═══════════════════╝"
 sleep 1
 echo "$c [$b01$c] $gNmap"
