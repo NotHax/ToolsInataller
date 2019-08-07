@@ -43,7 +43,7 @@ exit
 lagi=1
 while [ $lagi -lt 6 ];
 do
-echo
+echo ""
 echo "$c╔═══════════════════╗"
 echo "$y  Tools Installer"
 echo "$c╚═══════════════════╝"
@@ -58,6 +58,11 @@ read -p "╰─>" pil;
 #Nmap
 case $pil in
 01) echo "Gak Ada Goblok!1!1!"
+echo " Canda Om:v"
+echo " Jan Marah Yak"
+echo " Mending Untuk Keluar Dari Tools Ini"
+echo " Bye Monyed:v"
+exit
 
 ;;
 
@@ -70,5 +75,6 @@ exit
 
 *) echo "Maaf Pencarian Anda Tidak Di Temukan"
 esac
+done
 done
 done
