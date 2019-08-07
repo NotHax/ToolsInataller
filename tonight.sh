@@ -64,3 +64,10 @@ case $pil in
 #Exit
 00) echo " Bye Pantek!!!"
 exit
+
+;;
+
+*) echo "Maaf Pencarian Anda Tidak Di Temukan"
+esac
+done
+donw
