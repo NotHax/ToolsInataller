@@ -24,10 +24,10 @@ echo ""
 sleep 1
 echo ""
 echo " $c╔═══════════════════════════════════════════╗"
-echo "  $g【$yAuthor$g】$c: $b NotGuardian"
-echo "  $g【$yGithub$g】$c: $g https://github.com/NotHax"
-echo "  $g【$yInstagram$g】$c: $g https://instagram.com/notguardianyt"
-echo "  $g【$yYoutube$g】$c: $r Not Guardian Hax"
+echo "  $g【$y Author$g】$c: $b NotGuardian"
+echo "  $g【$y Github$g】$c: $g https://github.com/NotHax"
+echo "  $g【$y Instagram$g】$c: $g https://instagram.com/notguardianyt"
+echo "  $g【$y Youtube$g】$c: $r Not Guardian Hax"
 echo " $c╚═══════════════════════════════════════════╝"
 sleep 1
 echo ""
@@ -48,9 +48,9 @@ echo "$c╔═══════════════════╗"
 echo "$y  Tools Installer"
 echo "$c╚═══════════════════╝"
 sleep 1
-echo "$c [$b 01 $c] $gNmap"
+echo "$c [$b 01 $c] $g Nmap"
 
-echo "$c [$b 00 $c] $rExit"
+echo "$c [$b 00 $c] $r Exit"
 echo ""
 echo  "╭─Pilih─|lolcat
 read -p "╰─>" pil; 
