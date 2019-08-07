@@ -79,8 +79,6 @@ exit
 
 ;;
 
-#Exit
-case $pil in
 00) echo " Bye Pantek!!!"
 exit
 
