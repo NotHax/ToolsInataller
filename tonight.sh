@@ -24,10 +24,10 @@ echo ""
 sleep 1
 echo ""
 echo " $c╔═══════════════════════════════════════════╗"
-echo "  $g【Author$g】$c: $b NotGuardian"
-echo "  $g【Github$g】$c: $g https://github.com/NotHax"
-echo "  $g【Instagram$g】$c: $g https://instagram.com/notguardianyt"
-echo "  $g【Youtube$g】$c: $r Not Guardian Hax"
+echo "  $g【$yAuthor$g】$c: $b NotGuardian"
+echo "  $g【$yGithub$g】$c: $g https://github.com/NotHax"
+echo "  $g【$yInstagram$g】$c: $g https://instagram.com/notguardianyt"
+echo "  $g【$yYoutube$g】$c: $r Not Guardian Hax"
 echo " $c╚═══════════════════════════════════════════╝"
 sleep 1
 echo ""
@@ -40,14 +40,17 @@ clear
 echo -e $r"[!]> (Ctrl + C ) Detected, Trying To Exit ... "
 exit
 }
+lagi=1
+while [ $lagi -lt 6 ];
+do
 echo
 echo "$c╔═══════════════════╗"
-echo "$r  Tools Installer"
+echo "$y  Tools Installer"
 echo "$c╚═══════════════════╝"
 sleep 1
-echo "$c [$b01$c] $gNmap"
+echo "$c [$b 01 $c] $gNmap"
 
-echo "$c [$b00$c] $rExit"
+echo "$c [$b 00 $c] $rExit"
 echo ""
 echo  "╭─Pilih─|lolcat
 read -p "╰─>" pil; 
